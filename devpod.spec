@@ -1,5 +1,5 @@
 Name:           devpod
-Version:        v0.4.2
+Version:        v0.5.0-alpha.2
 Release:        1%{?dist}
 Summary:        Codespaces but open-source, client-only and unopinionated.
 
